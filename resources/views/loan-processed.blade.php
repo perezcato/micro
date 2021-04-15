@@ -11,7 +11,7 @@
     <meta name="keywords" content="micro, blog, bootstrap, business, company, consulting, corporate, finance, financial, insurance, portfolio, responsive, services, shop">
 
     <!-- :: Title -->
-    <title>Micro - HTML5 Responsive Multi-Purpose Template</title>
+    <title>Gold Link</title>
 
     <!-- :: Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&amp;display=swap">
